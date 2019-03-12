@@ -1,0 +1,22 @@
+{
+  "name": "ssenkit",
+  "version": "0.1.0",
+  "authors": [
+    "SSen <i@ssen.name>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/vender",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "~0.8.0",
+    "react": "0.13.0-rc2",
+    "TweenJS": "~0.6.0",
+    "color": "~2.5.0"
+  }
+}

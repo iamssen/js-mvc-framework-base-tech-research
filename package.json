@@ -1,0 +1,33 @@
+{
+  "name": "ssenkit.js",
+  "version": "0.1.0",
+  "description": "SSen's React Application Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iamssen/ssenkit.js.git"
+  },
+  "keywords": [
+    "React",
+    "UI",
+    "MVC",
+    "Typescript"
+  ],
+  "author": "SSen <i@ssen.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamssen/ssenkit.js/issues"
+  },
+  "homepage": "https://github.com/iamssen/ssenkit.js",
+  "devDependencies": {
+    "done-exec": "*",
+    "gulp": "*",
+    "gulp-util": "*",
+    "run-sequence": "*",
+    "typescript": "git://github.com/Microsoft/TypeScript",
+    "react-jsx-anywhere": "*"
+  }
+}
